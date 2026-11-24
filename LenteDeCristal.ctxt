@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LenteDeCristal
+comment1.params=id\ valor
+comment1.target=LenteDeCristal(java.lang.String,\ int)
+comment2.params=valor
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=int\ usar()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Faroleiro
+comment1.params=id\ posX\ posY\ energia\ pontuacao
+comment1.target=Faroleiro(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ patrulhar()
+comment3.params=recurso
+comment3.target=void\ operarRecurso(RecursoDoFarol)
+numComments=4

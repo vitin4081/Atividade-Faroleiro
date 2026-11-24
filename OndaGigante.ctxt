@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OndaGigante
+comment1.params=id\ valor
+comment1.target=OndaGigante(java.lang.String,\ int)
+comment2.params=valor
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=int\ usar()
+numComments=4
